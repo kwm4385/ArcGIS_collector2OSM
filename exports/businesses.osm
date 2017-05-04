@@ -1,0 +1,794 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-30469' lat='-2.488508513' lon='29.522378761'>
+    <tag k='GlobalID' v='{CEF1C62B-CF70-439A-9B2C-DEDC3E35A036}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Bar- sells beer village 4' />
+  </node>
+  <node id='-30470' lat='-2.48690294' lon='29.522521589'>
+    <tag k='GlobalID' v='{70712C59-C464-4277-A951-94E235AE82AC}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sip beer - bar' />
+  </node>
+  <node id='-30471' lat='-2.486617598' lon='29.522641618'>
+    <tag k='GlobalID' v='{DA0A97E4-DBE1-49E1-8247-43CB2E8AC21B}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+    <tag k='comment' v='Fruits and groceries' />
+  </node>
+  <node id='-30472' lat='-2.486994049' lon='29.522710685'>
+    <tag k='GlobalID' v='{521E6589-9CCB-46D5-849F-CF012AE08136}' />
+    <tag k='business_s' v='1' />
+    <tag k='business_t' v='9' />
+    <tag k='comment' v='Coal' />
+  </node>
+  <node id='-30473' lat='-2.4870768' lon='29.522715044'>
+    <tag k='GlobalID' v='{24E681E8-E72D-427F-9D48-34D665D8E035}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='Good and other' />
+  </node>
+  <node id='-30474' lat='-2.488552518' lon='29.522715714'>
+    <tag k='GlobalID' v='{02A58BB3-08E8-4CD9-956E-ACB065D813A6}' />
+    <tag k='business_s' v='1' />
+    <tag k='business_t' v='9' />
+    <tag k='comment' v='Coal' />
+  </node>
+  <node id='-30475' lat='-2.486652573' lon='29.522470363'>
+    <tag k='GlobalID' v='{E0836C3A-3A3D-4B59-B2A4-A6E54DB27C55}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+  </node>
+  <node id='-30476' lat='-2.48672114' lon='29.522478341'>
+    <tag k='GlobalID' v='{948477A3-36D7-46FA-959F-894F2A5EC148}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+  </node>
+  <node id='-30477' lat='-2.486806323' lon='29.522483733'>
+    <tag k='GlobalID' v='{18124425-CDF7-43A6-8877-BC71667D9567}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+  </node>
+  <node id='-30478' lat='-2.48860562' lon='29.52262489'>
+    <tag k='GlobalID' v='{C8E7650A-1A91-4504-9E0E-0D90BD708EA5}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+  </node>
+  <node id='-30479' lat='-2.488071521' lon='29.522492832'>
+    <tag k='GlobalID' v='{5C80CEF1-222F-456B-B949-87A96CC54C3B}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='bar - sells beer' />
+  </node>
+  <node id='-30480' lat='-2.48757306' lon='29.52374452'>
+    <tag k='GlobalID' v='{44D39187-C08E-4785-A42D-51F525CC82B4}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Charcoal and tailor' />
+  </node>
+  <node id='-30481' lat='-2.48700347' lon='29.52395473'>
+    <tag k='GlobalID' v='{D54F092E-50B0-4561-B241-37B5FFB8775D}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='General goods' />
+  </node>
+  <node id='-30482' lat='-2.4869701' lon='29.52392571'>
+    <tag k='GlobalID' v='{16EB24B9-7CC5-4D29-BC03-16AD1655BA4E}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='small shop' />
+  </node>
+  <node id='-30483' lat='-2.48699734' lon='29.522630302'>
+    <tag k='GlobalID' v='{75E3CBB7-541C-424D-B932-E10EC2C250A8}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+    <tag k='comment' v='Food' />
+  </node>
+  <node id='-30484' lat='-2.487261118' lon='29.522611191'>
+    <tag k='GlobalID' v='{DC645546-398D-4220-9048-1A8E3F7A06E4}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='11' />
+    <tag k='comment' v='2 slabs' />
+  </node>
+  <node id='-30485' lat='-2.488067164' lon='29.522535754'>
+    <tag k='GlobalID' v='{4CEEB682-4B06-424A-B807-AB5179064EDE}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='11' />
+  </node>
+  <node id='-30486' lat='-2.488397034' lon='29.52332885'>
+    <tag k='GlobalID' v='{08C03245-486A-49D7-A117-85EB2478347D}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='11' />
+  </node>
+  <node id='-30487' lat='-2.48871665' lon='29.524205513'>
+    <tag k='GlobalID' v='{349B91D0-22DB-4E72-B5F0-FDE5EFBB4463}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='11' />
+    <tag k='comment' v='BL6' />
+  </node>
+  <node id='-30488' lat='-2.488658926' lon='29.524774728'>
+    <tag k='GlobalID' v='{F8F1BE99-D9F3-4CD7-82D4-BB1786DE0768}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='11' />
+    <tag k='comment' v='BL7' />
+  </node>
+  <node id='-30489' lat='-2.488370422' lon='29.524729298'>
+    <tag k='GlobalID' v='{40C5123E-BF65-42DD-9D37-CF7C31F17CB0}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Tigo' />
+  </node>
+  <node id='-30490' lat='-2.484421916' lon='29.523134725'>
+    <tag k='GlobalID' v='{56AE0FD6-C09C-4E84-B1D1-94ADE43581DB}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+    <tag k='comment' v='Fruits and vegetables. Hut in progress of being made (under construction).' />
+  </node>
+  <node id='-30491' lat='-2.484332439' lon='29.522693418'>
+    <tag k='GlobalID' v='{6E12D1E2-892C-4EDE-B24E-272BC1C075CA}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='4' />
+    <tag k='comment' v='Selling clothes.' />
+  </node>
+  <node id='-30492' lat='-2.483943854' lon='29.523014277'>
+    <tag k='GlobalID' v='{B543CCB7-1B16-47E2-BA85-D0425A59FBB7}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='2' />
+    <tag k='comment' v='Braiding hair for woman' />
+  </node>
+  <node id='-30493' lat='-2.484523757' lon='29.523471678'>
+    <tag k='GlobalID' v='{C78C2C38-5CDF-4E65-ACCC-254E2F8378DC}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sells beer. Stick and plastic indicates that.' />
+  </node>
+  <node id='-30494' lat='-2.484552004' lon='29.523597071'>
+    <tag k='GlobalID' v='{4D4E1C1E-C709-4219-A60C-3A3A8C1A34C9}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sells beer.' />
+  </node>
+  <node id='-30495' lat='-2.484741602' lon='29.523688014'>
+    <tag k='GlobalID' v='{7C0726BB-F1FC-46A9-998B-37DE3FABFD87}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Pool. 100 Francs for a game.' />
+  </node>
+  <node id='-30496' lat='-2.484724671' lon='29.52363655'>
+    <tag k='GlobalID' v='{1AC337BC-EF27-4ECB-B2C5-8A9FEF353741}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Make beer and serve it. All kinds included.' />
+  </node>
+  <node id='-30497' lat='-2.485303567' lon='29.524118928'>
+    <tag k='GlobalID' v='{751113C9-70CC-4D7D-AB83-0D89DAEC9C62}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sells Sagam beer.' />
+  </node>
+  <node id='-30498' lat='-2.485621869' lon='29.524342557'>
+    <tag k='GlobalID' v='{783826D5-EC77-4223-BF4D-93CA58D8B292}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sells Sagam beer' />
+  </node>
+  <node id='-30499' lat='-2.485644417' lon='29.52428137'>
+    <tag k='GlobalID' v='{7DDE7E59-27C9-443D-A056-6D4A13C3A58E}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sells Sagam beer' />
+  </node>
+  <node id='-30500' lat='-2.485040165' lon='29.523834949'>
+    <tag k='GlobalID' v='{4BD72F72-E2C9-45BC-BE4A-B6298B5D3648}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='9' />
+    <tag k='comment' v='100 Francs per pile' />
+  </node>
+  <node id='-30501' lat='-2.485033795' lon='29.523652895'>
+    <tag k='GlobalID' v='{77477C54-12AC-44E5-AFB8-3E6DE77CA1B4}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sells Sagam beer' />
+  </node>
+  <node id='-30502' lat='-2.484972691' lon='29.523534793'>
+    <tag k='GlobalID' v='{4A306701-80DB-4C09-BAC0-C365A7A15330}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sells Sagam beer' />
+  </node>
+  <node id='-30503' lat='-2.484561685' lon='29.52321385'>
+    <tag k='GlobalID' v='{52B1CD41-6737-45E3-88B9-53CA9DF1B17B}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sell tea, milk, prepared food. Also sells phone cards' />
+  </node>
+  <node id='-30504' lat='-2.485195733' lon='29.523491459'>
+    <tag k='GlobalID' v='{ACBED860-0C00-457F-BC9B-998EDA13B089}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='Cigarettes, onions, candy, etc' />
+  </node>
+  <node id='-30505' lat='-2.485159565' lon='29.523379644'>
+    <tag k='GlobalID' v='{EA2192AA-5ED4-4506-AFEE-20F1E623D41B}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='Clothes, onions etc' />
+  </node>
+  <node id='-30506' lat='-2.485156967' lon='29.523384758'>
+    <tag k='GlobalID' v='{1C6D101B-E5C7-4FD5-B2C0-96D4989EE635}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+  </node>
+  <node id='-30507' lat='-2.48448384' lon='29.5231117'>
+    <tag k='GlobalID' v='{BA8607EF-1D02-49C9-B8F6-4F48F7B22E50}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+    <tag k='comment' v='fruits and vegetables, under construction' />
+  </node>
+  <node id='-30508' lat='-2.48435193' lon='29.52273948'>
+    <tag k='GlobalID' v='{8F582B18-A052-47D4-A31B-45EBE1D48538}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='4' />
+    <tag k='comment' v='clothing store' />
+  </node>
+  <node id='-30509' lat='-2.48434992' lon='29.52275442'>
+    <tag k='GlobalID' v='{40F6B4E2-5D81-4078-98F7-C2E5643CA38C}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sagam beer, milk, tea' />
+  </node>
+  <node id='-30510' lat='-2.48435301' lon='29.52325642'>
+    <tag k='GlobalID' v='{DEB3FEDD-4FFD-467F-8F8A-9BB980BA19AE}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='2' />
+    <tag k='comment' v='Womens Hair dresser, weaves' />
+  </node>
+  <node id='-30511' lat='-2.48502752' lon='29.523517955'>
+    <tag k='GlobalID' v='{0DE830F9-D755-497D-8C58-79D0E5CE1646}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sagam beer' />
+  </node>
+  <node id='-30512' lat='-2.48454006' lon='29.52353115'>
+    <tag k='GlobalID' v='{7F37A6FE-B8EE-42A7-B2A3-EC22A29BFAC1}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sagam beer' />
+  </node>
+  <node id='-30513' lat='-2.48473583' lon='29.52371058'>
+    <tag k='GlobalID' v='{55254DA6-7BE3-43EB-95E7-FBD4D8BCEE60}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='bar, pool table, 100 per game, alcohol available' />
+  </node>
+  <node id='-30514' lat='-2.48471764' lon='29.52370274'>
+    <tag k='GlobalID' v='{9A2ECEE6-B47A-4240-91D2-A5B4BC782DBF}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Beer store, All kinds of beer' />
+  </node>
+  <node id='-30515' lat='-2.48506569' lon='29.52389091'>
+    <tag k='GlobalID' v='{A44D2080-EA53-42EE-B54A-85CB3AA5B252}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Under construction, sell produce, beer, and general things' />
+  </node>
+  <node id='-30516' lat='-2.48526582' lon='29.52412242'>
+    <tag k='GlobalID' v='{5578CEF9-592F-4DA0-85E3-FC0A9024BD78}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sagam beer' />
+  </node>
+  <node id='-30517' lat='-2.48546318' lon='29.52432267'>
+    <tag k='GlobalID' v='{CE653803-3105-4615-BB9D-05A833498EDE}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sagam Beer' />
+  </node>
+  <node id='-30518' lat='-2.48567917' lon='29.52428853'>
+    <tag k='GlobalID' v='{5D5F2096-6379-47CB-9413-5B44B70E27FE}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sagam Beer' />
+  </node>
+  <node id='-30519' lat='-2.48590831' lon='29.52438051'>
+    <tag k='GlobalID' v='{D78B06D4-96F8-4A56-B4F8-AB569C7D600C}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sagam beer' />
+  </node>
+  <node id='-30520' lat='-2.48509555' lon='29.52389774'>
+    <tag k='GlobalID' v='{DD35B8D3-5344-4A6C-A1A1-43AA6A2E10CE}' />
+    <tag k='business_s' v='0' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='NOTE, area is where poorer refugees are, compost and waste disposal are located here because of that' />
+  </node>
+  <node id='-30521' lat='-2.48498188' lon='29.52372062'>
+    <tag k='GlobalID' v='{B9A6A3FB-7320-48AC-92D3-AEEFD3F4BDCF}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sagam beer' />
+  </node>
+  <node id='-30522' lat='-2.48499669' lon='29.52367656'>
+    <tag k='GlobalID' v='{CE090328-F84C-42DA-9EEB-79CA11D3D64F}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Sell phone card' />
+  </node>
+  <node id='-30523' lat='-2.48495353' lon='29.52349452'>
+    <tag k='GlobalID' v='{0F076F45-0EB9-41AA-88A5-0B5AFCBDC9EF}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sells various drinks and sagam beer' />
+  </node>
+  <node id='-30524' lat='-2.48495088' lon='29.523538'>
+    <tag k='GlobalID' v='{60B92E22-5B0D-4862-AD27-DBC09AC0A43F}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='sagam beer' />
+  </node>
+  <node id='-30525' lat='-2.48457556' lon='29.52319797'>
+    <tag k='GlobalID' v='{77F6409A-8A38-4E22-8F9B-F791B71D351E}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Restaurant, sells drink with meal.' />
+  </node>
+  <node id='-30526' lat='-2.48456492' lon='29.52318351'>
+    <tag k='GlobalID' v='{5BE33321-0426-47A6-8DDB-F20D250EC66A}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='phone cards' />
+  </node>
+  <node id='-30527' lat='-2.48524624' lon='29.5233974'>
+    <tag k='GlobalID' v='{DD3C1B60-F030-48DB-B20C-124E80D36E0F}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='Sells wide assortment of products' />
+  </node>
+  <node id='-30528' lat='-2.48519641' lon='29.52337495'>
+    <tag k='GlobalID' v='{0D416BA1-605D-4D89-B23B-7847632133BC}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+  </node>
+  <node id='-30529' lat='-2.48514172' lon='29.52336195'>
+    <tag k='GlobalID' v='{6AB6C677-A117-47AE-B741-0C844DB37140}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='sells wide assortment of products' />
+  </node>
+  <node id='-30530' lat='-2.48847113' lon='29.524386897'>
+    <tag k='GlobalID' v='{C2E59AA0-F4C7-4AD7-A751-5BEFA07D1940}' />
+    <tag k='business_s' v='1' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Coal' />
+  </node>
+  <node id='-30531' lat='-2.488900074' lon='29.522302486'>
+    <tag k='GlobalID' v='{B10D66E8-2857-49A3-9BB8-7982798369FB}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+  </node>
+  <node id='-30532' lat='-2.486073109' lon='29.52395062'>
+    <tag k='GlobalID' v='{BC5E6BE6-6477-4585-ADC6-3F033709520A}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Water storage tank. T5B. 45 cubic meters.' />
+  </node>
+  <node id='-30533' lat='-2.486050856' lon='29.523952631'>
+    <tag k='GlobalID' v='{5C3294F6-2E4D-4CA8-95D4-A48798DBF1BD}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Water storage tank. T4B. 75 cubic meters.' />
+  </node>
+  <node id='-30534' lat='-2.485966156' lon='29.523930586'>
+    <tag k='GlobalID' v='{34010E91-7B00-4FE5-A132-4F8F5937EBD7}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Water storage tank. T1B. 2 cubic meters.' />
+  </node>
+  <node id='-30535' lat='-2.487522299' lon='29.524988467'>
+    <tag k='GlobalID' v='{C14DCC43-559F-49AD-BCCC-5B478A1DB959}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='11' />
+    <tag k='comment' v='BL8' />
+  </node>
+  <node id='-30536' lat='-2.482564822' lon='29.523948272'>
+    <tag k='GlobalID' v='{36DCBC33-BFD4-4EA4-8411-BE8183B66927}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='11' />
+    <tag k='comment' v='AL3.  Water point 40.' />
+  </node>
+  <node id='-30537' lat='-2.482640678' lon='29.523644932'>
+    <tag k='GlobalID' v='{B5A3F4BC-65ED-467A-A26C-06438A6BEFD4}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='11' />
+    <tag k='comment' v='AL2. Water point 5.' />
+  </node>
+  <node id='-30538' lat='-2.482332015' lon='29.521673675'>
+    <tag k='GlobalID' v='{C981A670-28F6-4D22-B325-8EDF53078797}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='11' />
+    <tag k='comment' v='Wash point 9. AL4' />
+  </node>
+  <node id='-30539' lat='-2.482435741' lon='29.522030745'>
+    <tag k='GlobalID' v='{7B422463-2697-474D-A054-084123485943}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Sell phone cards' />
+  </node>
+  <node id='-30540' lat='-2.482544999' lon='29.52190686'>
+    <tag k='GlobalID' v='{E0A8524D-95E2-45E1-829D-2DA22A193EED}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sells Sagam beer' />
+  </node>
+  <node id='-30541' lat='-2.482706853' lon='29.521892276'>
+    <tag k='GlobalID' v='{4F15BA86-56B9-4212-8E9B-F11ED5C8C994}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Water tank. Quarter 7' />
+  </node>
+  <node id='-30542' lat='-2.482639756' lon='29.522767681'>
+    <tag k='GlobalID' v='{31EFAAD6-7DBE-4EF5-AC5A-4FF8742DAC03}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Sells phone cards.' />
+  </node>
+  <node id='-30543' lat='-2.48336958' lon='29.52391737'>
+    <tag k='GlobalID' v='{BF67F971-F001-4BE7-8E7D-88877EF3FD86}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sagam beer' />
+  </node>
+  <node id='-30544' lat='-2.488512201' lon='29.522726945'>
+    <tag k='GlobalID' v='{B5A4E90A-67C2-429D-B813-7FFAB9DB35AC}' />
+    <tag k='business_s' v='1' />
+    <tag k='business_t' v='9' />
+  </node>
+  <node id='-30545' lat='-2.488547385' lon='29.522623429'>
+    <tag k='GlobalID' v='{8732B1E3-BFF1-4160-80BF-6F2DE440D269}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='Soap, bread, drinks etc' />
+  </node>
+  <node id='-30546' lat='-2.488604821' lon='29.522532485'>
+    <tag k='GlobalID' v='{1A71C807-7A11-421F-9BE4-3C532988276E}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='Weren&apos;t open' />
+  </node>
+  <node id='-30547' lat='-2.488466269' lon='29.524457725'>
+    <tag k='GlobalID' v='{B9181714-1293-4744-B5A6-689EC6704612}' />
+    <tag k='business_s' v='0' />
+    <tag k='business_t' v='9' />
+  </node>
+  <node id='-30548' lat='-2.488482948' lon='29.524436183'>
+    <tag k='GlobalID' v='{43E2495B-0551-43FA-B1EB-AF21B32CE1CC}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+    <tag k='comment' v='Mangos and avocados' />
+  </node>
+  <node id='-30549' lat='-2.482414076' lon='29.523508055'>
+    <tag k='GlobalID' v='{945FF150-5B60-41D2-8FFD-26B861B4E798}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='Household stuff' />
+  </node>
+  <node id='-30550' lat='-2.482477399' lon='29.521972742'>
+    <tag k='GlobalID' v='{C4EFCCF4-D5EF-4831-B29E-1C8EBC6F206F}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='Beer and toothbrushes etc' />
+  </node>
+  <node id='-30551' lat='-2.482527229' lon='29.522003671'>
+    <tag k='GlobalID' v='{9DF016E3-1737-458A-98B7-9559C555AE82}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Sagam beer' />
+  </node>
+  <node id='-30552' lat='-2.482586364' lon='29.52273692'>
+    <tag k='GlobalID' v='{074287C6-77CB-4DF1-8585-28B1895C2771}' />
+    <tag k='business_s' v='1' />
+    <tag k='business_t' v='9' />
+    <tag k='comment' v='Charcoal and fruits' />
+  </node>
+  <node id='-30553' lat='-2.48250811' lon='29.522794504'>
+    <tag k='GlobalID' v='{7AFCF23E-C9B9-4C51-B1D3-D1FB518586D0}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Money place' />
+  </node>
+  <node id='-30554' lat='-2.482812632' lon='29.52215002'>
+    <tag k='GlobalID' v='{09245592-E8E5-4197-B953-C0B2838396C2}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Local beer place' />
+  </node>
+  <node id='-30555' lat='-2.485050042' lon='29.523161715'>
+    <tag k='GlobalID' v='{1E96B436-BA2F-42C4-8592-84E1706EE10A}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Wfp storage building' />
+  </node>
+  <node id='-30556' lat='-2.484146906' lon='29.522261164'>
+    <tag k='GlobalID' v='{1524DFC8-838F-4567-B559-C519B6313BB0}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Entrance to camp B' />
+  </node>
+  <node id='-30557' lat='-2.485129139' lon='29.523264225'>
+    <tag k='GlobalID' v='{5FCCF7E4-D31C-40DE-840D-DBD0E97E0575}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='WFP admin building where refugees come to make complaints about vouchers.' />
+  </node>
+  <node id='-30558' lat='-2.485771948' lon='29.523662282'>
+    <tag k='GlobalID' v='{552F6C24-D44A-4E47-B32C-871A9D962D50}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Gate keeper building' />
+  </node>
+  <node id='-30559' lat='-2.48182607' lon='29.52251362'>
+    <tag k='GlobalID' v='{86DC5120-3E5F-4655-8726-45098744B54B}' />
+    <tag k='business_s' v='1' />
+    <tag k='business_t' v='9' />
+  </node>
+  <node id='-30560' lat='-2.483570461' lon='29.523929668'>
+    <tag k='GlobalID' v='{9EC8B524-1ABF-4E47-8908-BC6488EA7740}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='sagam beer' />
+  </node>
+  <node id='-30561' lat='-2.48337856' lon='29.52390737'>
+    <tag k='GlobalID' v='{248C3902-9A7C-43BE-A172-B0D4525B83B9}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='sagam beer' />
+  </node>
+  <node id='-30562' lat='-2.48340124' lon='29.52403623'>
+    <tag k='GlobalID' v='{302FA76B-57D4-4246-8B41-5797FC877DD4}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='3' />
+    <tag k='comment' v='baskets' />
+  </node>
+  <node id='-30563' lat='-2.48350127' lon='29.52372324'>
+    <tag k='GlobalID' v='{BFEF6505-2254-4AA6-81EB-605240D76EE4}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+    <tag k='comment' v='cheese' />
+  </node>
+  <node id='-30564' lat='-2.48346299' lon='29.52365919'>
+    <tag k='GlobalID' v='{8117D503-8EC7-425C-846D-78C6C46BCC7E}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='sells alcohol' />
+  </node>
+  <node id='-30565' lat='-2.482378678' lon='29.523453816'>
+    <tag k='GlobalID' v='{E786025F-FD05-401C-A36A-427267587724}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='sagam beer' />
+  </node>
+  <node id='-30566' lat='-2.48241141' lon='29.52347739'>
+    <tag k='GlobalID' v='{1CD06C27-1A4F-42AA-8A91-D996BF8121A5}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='a lot of stuff' />
+  </node>
+  <node id='-30567' lat='-2.48269229' lon='29.52316599'>
+    <tag k='GlobalID' v='{1C881A19-BA32-4471-B76C-74577F3F3FC0}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='sagam beer' />
+  </node>
+  <node id='-30568' lat='-2.482505685' lon='29.522765663'>
+    <tag k='GlobalID' v='{E1ACAB5B-11EE-472E-BA46-9126D8D540E8}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='maze food' />
+  </node>
+  <node id='-30569' lat='-2.482599188' lon='29.522599118'>
+    <tag k='GlobalID' v='{5F4F7AFC-DDB9-438E-9B85-26DAE4A7A054}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='drinks and maze food, beans, coals; several shops' />
+  </node>
+  <node id='-30570' lat='-2.482614285' lon='29.52239003'>
+    <tag k='GlobalID' v='{73ECE7F0-8CC0-4C77-A951-50AEAA71F22D}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='sagam beer' />
+  </node>
+  <node id='-30571' lat='-2.48272691' lon='29.52273653'>
+    <tag k='GlobalID' v='{67FFE65C-62D5-4DA6-8196-F623ADA2429A}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='casava/potato' />
+  </node>
+  <node id='-30572' lat='-2.482701252' lon='29.522769146'>
+    <tag k='GlobalID' v='{53FEC51E-458A-4246-B70C-CC1C2CB75111}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='drinks and maze food, misc.' />
+  </node>
+  <node id='-30573' lat='-2.482642834' lon='29.522687122'>
+    <tag k='GlobalID' v='{72601983-B128-426F-A72A-231B4D25EDED}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='air time' />
+  </node>
+  <node id='-30574' lat='-2.482604943' lon='29.522653753'>
+    <tag k='GlobalID' v='{8BF8557B-2E82-45F9-B5E3-B4F317923672}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='rice, grain and maze' />
+  </node>
+  <node id='-30575' lat='-2.482649543' lon='29.522867004'>
+    <tag k='GlobalID' v='{99781BEC-9C90-47D3-84CA-92DC9C915900}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='sagam, drinks, maze, air time' />
+  </node>
+  <node id='-30576' lat='-2.482752159' lon='29.522967178'>
+    <tag k='GlobalID' v='{74E8A7F9-5A9C-496F-A03A-499D720100F9}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='sagam' />
+  </node>
+  <node id='-30577' lat='-2.482765297' lon='29.523045202'>
+    <tag k='GlobalID' v='{18BFCC0E-FE80-4684-8A88-0A4223AA96FB}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='sagam, general bar' />
+  </node>
+  <node id='-30578' lat='-2.482919266' lon='29.523231996'>
+    <tag k='GlobalID' v='{7AF91BA1-07F1-4411-B23A-5E2894EF2225}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='sagam' />
+  </node>
+  <node id='-30579' lat='-2.483003284' lon='29.523425734'>
+    <tag k='GlobalID' v='{3559BFD4-76C1-428E-BC5A-B2664168C791}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='tailor' />
+  </node>
+  <node id='-30580' lat='-2.483132001' lon='29.523421265'>
+    <tag k='GlobalID' v='{D677367E-87C1-4E53-A2A7-4E690DC496CB}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='air time, maze, grain, etc.' />
+  </node>
+  <node id='-30581' lat='-2.483150339' lon='29.523233227'>
+    <tag k='GlobalID' v='{AEB59A9C-C00F-4E6E-B80C-387F19895697}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+  </node>
+  <node id='-30582' lat='-2.48697845' lon='29.5226916'>
+    <tag k='GlobalID' v='{AA2D0549-B43C-4550-BAAF-A3ED68FE69A7}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='sells many things' />
+  </node>
+  <node id='-30583' lat='-2.485155597' lon='29.523329543'>
+    <tag k='GlobalID' v='{0883FC78-2279-482E-ACB7-764C5D6C315E}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+    <tag k='comment' v='Produce' />
+  </node>
+  <node id='-30584' lat='-2.48521452' lon='29.52331874'>
+    <tag k='GlobalID' v='{3202CFC1-238D-418D-B233-7D1F12D0E188}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='None parishable/house goods' />
+  </node>
+  <node id='-30585' lat='-2.48523591' lon='29.52334633'>
+    <tag k='GlobalID' v='{2FB553E4-2337-40EB-93C4-DC9D7410CC1D}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='4' />
+    <tag k='comment' v='Sewing' />
+  </node>
+  <node id='-30586' lat='-2.48641782' lon='29.52371666'>
+    <tag k='GlobalID' v='{1ED34340-1F35-4915-8D0E-DCF8FF666CB7}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Unmarried women, women at risk, Flower curtains, red bars on window (no pic)' />
+  </node>
+  <node id='-30587' lat='-2.485149046' lon='29.52241648'>
+    <tag k='GlobalID' v='{5D9D9322-3C44-4614-89C0-754E2250FBF8}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+    <tag k='comment' v='Lettuce' />
+  </node>
+  <node id='-30588' lat='-2.486942229' lon='29.522613706'>
+    <tag k='GlobalID' v='{AA704FDA-58DA-4F2E-A02C-EB0A1E7E2EAC}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+    <tag k='comment' v='Beans' />
+  </node>
+  <node id='-30589' lat='-2.488087407' lon='29.524712786'>
+    <tag k='GlobalID' v='{390235DE-3A7F-4253-8B93-E8B33C43CBDF}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='Air time, salts, fruits' />
+  </node>
+  <node id='-30590' lat='-2.488145493' lon='29.524721336'>
+    <tag k='GlobalID' v='{E2AB37CC-4E5F-46FF-A5DF-10CF09F6558F}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='9' />
+    <tag k='comment' v='Wood distribution' />
+  </node>
+  <node id='-30591' lat='-2.488341126' lon='29.524592087'>
+    <tag k='GlobalID' v='{6ADE769E-0AD2-4CCD-9906-93106C2B4A33}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='4' />
+    <tag k='comment' v='Tailor, sewing shop' />
+  </node>
+  <node id='-30592' lat='-2.488456084' lon='29.524400308'>
+    <tag k='GlobalID' v='{45584A6A-9609-4CBA-9D33-14E3D574B74E}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+    <tag k='comment' v='Sweet potatoes' />
+  </node>
+  <node id='-30593' lat='-2.488432364' lon='29.524348844'>
+    <tag k='GlobalID' v='{CC95AFA9-DDEA-4CAD-BB1B-C5715CD09D5C}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='8' />
+    <tag k='comment' v='tomAtos, lettuce, other veggies' />
+  </node>
+  <node id='-30594' lat='-2.488430143' lon='29.524341971'>
+    <tag k='GlobalID' v='{F9F45F24-1A17-42A2-B7FA-B9DAE5E7F369}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='Air time and convenience stuff' />
+  </node>
+  <node id='-30595' lat='-2.48861949' lon='29.522597277'>
+    <tag k='GlobalID' v='{9099878D-DE6D-48B6-9CE8-049FA9C98149}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='Air time, veggies, tigo, other stuff' />
+  </node>
+  <node id='-30596' lat='-2.489016457' lon='29.522364847'>
+    <tag k='GlobalID' v='{6C73ADA8-8C92-4069-8DE9-2FB3258B4CA3}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='Sugar and other small thinfs' />
+  </node>
+  <node id='-30597' lat='-2.483109562' lon='29.522978821'>
+    <tag k='GlobalID' v='{F33BCC9C-4809-4190-A889-508C34F6E3A6}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='10' />
+    <tag k='comment' v='Breads, tigo, airtime' />
+  </node>
+  <node id='-30598' lat='-2.483006129' lon='29.52274371'>
+    <tag k='GlobalID' v='{572D0BD2-B24C-4388-8AD6-5CE34FB84E9A}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='4' />
+    <tag k='comment' v='Sewing' />
+  </node>
+  <node id='-30599' lat='-2.482380211' lon='29.521606201'>
+    <tag k='GlobalID' v='{437F537B-9BA3-4E53-B614-42D9C360FA8D}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='4' />
+    <tag k='comment' v='Sewing' />
+  </node>
+  <node id='-30600' lat='-2.482764059' lon='29.522282369'>
+    <tag k='GlobalID' v='{418906B5-8B2B-4653-8399-B37C58BBC7A6}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='1' />
+    <tag k='comment' v='Beer' />
+  </node>
+  <node id='-30601' lat='-2.482967531' lon='29.522495018'>
+    <tag k='GlobalID' v='{99525D49-B72D-4B8B-84AA-D39FA0143165}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Rabbits' />
+  </node>
+  <node id='-30602' lat='-2.483891558' lon='29.523347291'>
+    <tag k='GlobalID' v='{B1C6A165-D68C-4F52-BB5F-AA04ADB4E227}' />
+    <tag k='business_s' v='2' />
+    <tag k='business_t' v='12' />
+    <tag k='comment' v='Rabbit hut' />
+  </node>
+</osm>
