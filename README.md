@@ -51,4 +51,5 @@ There are many ways to import ESRI shapefiles into OpenStreetMap. Most involve c
 5. Once you are sure the data appears correct, click the upload button. 
 
 **Important** 
+
 *Excersise extreme caution if you are uploading data in an already well-mapped area. It may be covered under a well-established community of editors with whom you should consult before making mass changes. There is also no direct way to revert a changeset within OpenStreetMap.*
