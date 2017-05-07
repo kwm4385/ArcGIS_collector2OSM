@@ -38,7 +38,7 @@ For the purposes of this outline, it is assumed the user is already proficient u
 3. Export the feature classes to be used to this feature dataset using Export > To Geodatabase... (Single).
 4. The ArcMap Toolset in this repo contains several scripts used to add the required OSM tags to the data. The primary method for doing this is via the Prepare_OSM model, which runs all of the scripts on each feature class in a feature dataset and deposits the new copies in a specified output folder. The interface is shown below:
 
-![](https://github.com/kwm4385/ArcGIS_collector2OSM/raw/master/Screenshots/model_window.png)
+![](https://raw.githubusercontent.com/kwm4385/ArcGIS_collector2OSM/master/Screenshots/model_window.png)
 
 Enter any OSM tag names you used in the comments field when collecting in the `Additional Field Names` box, seperated by commas. The script will search for the `Name` tag by default.
 
