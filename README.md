@@ -11,3 +11,5 @@ The researchers using ArcGIS Collector had stored the majority of feature-specif
 ```Name: Umurava, 5 classrooms, Function: Office building```
 
 While not all data was properly formatted, it was enough to start breaking out various fields from the comments, such as `name` by performing string operations to identify key-value pairs denoted `Key: Value,`. These were then added as individual fields on the feature class. Field names were also modified as necessary to conform to known required OSM attributes. To ensure that polygons would be drawn as such when exported instead of closed ways (lines), the `area=true` attribute was added. 
+
+Once the required modifications were made to prepare the data, the newly exported shapefiles containing each type of feature were loaded into [JOSM](https://josm.openstreetmap.de/), a desktop editor for OpenStreetMap using the OpenData plugin to enable reading of ESRI shapefiles. Once imported, it was only a matter of entering credentials for an OSM account and uploading the data. Once done, spot checks were performed on the new features and conversions tweaked until a satisfactory result was reached.
